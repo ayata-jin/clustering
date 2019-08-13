@@ -146,16 +146,5 @@ To contribute an update simply:
 * Edit this document if needed to describe new files or other important information.
 * Create a pull request.
 
-## Important Links
-* https://wiki.equinor.com/wiki/index.php/Statoil_Data_Science_Technical_Standards - Data Science Technical Standards (Equinor Internal)
-* https://dataplatformwiki.azurewebsites.net/doku.php - Data Platform wiki (Equinor internal)
-* https://github.com/equinor/data-science-shared - Shared Data Science Code Repository (Equinor internal)
-
-## References
-* https://github.com/equinor/data-science-template/ - The master template for this project
-* http://docs.python-guide.org/en/latest/writing/structure/
-* https://github.com/Azure/Microsoft-TDSP
-* https://drivendata.github.io/cookiecutter-data-science/
-
 [//]: #
    [anaconda]: <https://www.continuum.io/downloads>
